@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nicolas Burgueño</h1>
-<h3 align="center">Full-Stack web developer de Argentina🌍</h3>
+<h3 align="center">Full-Stack web developer de Argentina 🌍</h3>
 
 - 🌱 Me encuentro aprendiendo --> **React Native, TypeScript**
 
